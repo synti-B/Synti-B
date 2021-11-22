@@ -1,6 +1,6 @@
 ### Hi!!!hello world!! 👋
 
-- 🔭 I’m a girl student of a degree in sysems 🌱  👯  🤔  💬  📫  😄  ⚡ 
+- 🔭 I’m a girl student of Lic. Sistemas 🌱  👯  🤔  💬  📫  😄  ⚡ 
 
 <center>   <h2> Lenguajes y Herramientas.</h2> </center>
 
