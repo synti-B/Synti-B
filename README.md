@@ -1,6 +1,8 @@
-### Hi!!!hello world!! 👋
+### Hi!!!hello world!! 👋👯  🤔  💬  📫  😄  ⚡ 
 
-- 🔭 I’m a girl student of Lic. Sistemas 🌱  👯  🤔  💬  📫  😄  ⚡ 
+- 🔭 I’m student  Lic. Sistemas 
+- 🌱 I’m trainee, with knowledge in: 
+- 
 
 <center>   <h2> Lenguajes y Herramientas.</h2> </center>
 
